@@ -1,6 +1,6 @@
 .navigation{
     position: relative;
-    left: 63%;
+    left: 60%;
 }
 .img-one{
     width: 70%;
@@ -15,7 +15,7 @@
 }
 .img-two img{
     left: 9%;
-    width: 10%;
+    width: 60%;
 }
 .img-two-text{
     max-width: 70%;
