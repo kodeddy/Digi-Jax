@@ -4,8 +4,10 @@
 }
 .img-one{
     width: 70%;
-    left: 10%;
     top: 70px;
+}
+.img-one img{
+    left: 10%;
 }
 .img-one-text{
     max-width: 60%;
