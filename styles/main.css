@@ -3,11 +3,11 @@
     left: 55%;
 }
 .img-one{
-    width: 70%;
     top: 70px;
 }
 .img-one img{
     left: 10%;
+    width: 70%;
 }
 .img-one-text{
     max-width: 60%;
