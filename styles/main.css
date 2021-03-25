@@ -1,0 +1,35 @@
+.navigation{
+    position: relative;
+    left: 63%;
+}
+.img-one{
+    width: 70%;
+    left: 17%;
+    top: 70px;
+}
+.img-one-text{
+    max-width: 60%;
+}
+.img-two{
+    top: 40px;
+}
+.img-two img{
+    left: 11%;
+}
+.img-two-text{
+    max-width: 70%;
+}
+.img-three img{
+    left: 2%;
+    width: 40%;
+}
+.img-three-text{
+    max-width: 80%;
+}
+.img-four img{
+    left: 2%;
+    width: 40%;
+}
+.img-four-text{
+    max-width: 90%;
+}
