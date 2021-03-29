@@ -36,3 +36,14 @@
 .img-four-text{
     max-width: 90%;
 }
+.Services{
+    background-color: aquamarine;
+}
+.service-one:hover{
+    transform: translateY(-9px);
+    box-shadow: -1px 7px 4px 0px black;
+}
+.service-one{
+    background-color: white;
+    border-radius: 5px;
+}
