@@ -37,7 +37,7 @@
     max-width: 90%;
 }
 .Services{
-    background-color: aquamarine;
+    background-color: #fef8f5;;
 }
 .service-one:hover{
     transform: translateY(-9px);
@@ -47,4 +47,5 @@
 .service-one{
     background-color: white;
     border-radius: 5px;
+    box-shadow: grey 0px 4px 6px 0px;
 }
