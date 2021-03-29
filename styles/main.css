@@ -42,6 +42,7 @@
 .service-one:hover{
     transform: translateY(-9px);
     box-shadow: -1px 7px 4px 0px black;
+    animation-timing-function: ease-in;
 }
 .service-one{
     background-color: white;
